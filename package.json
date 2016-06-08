@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zandergr8/pool/issues"
   },
-  "homepage": "https://github.com/zandergr8/pool"
+  "homepage": "https://github.com/zandergr8/pool",
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
 }
